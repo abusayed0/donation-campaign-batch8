@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "https://i.ibb.co/gV6bCmb/photo-1579684385127-1ef15d508118-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "title": "Support Pediatric Health",
+      "category": "Health",
+      "description": "Help provide medical care to children in need. Your generous donation will support our efforts to ensure that every child, regardless of their circumstances, receives the healthcare they deserve. We work tirelessly to provide essential medical services, vaccinations, and treatments to children in underserved communities. By contributing to our cause, you become a champion for pediatric health, helping us create a healthier and brighter future for our youngest generation.",
+      "donationAmount": 50,
+      "colors": {
+        "cardBg": "rgba(0,82,255,0.15)",
+        "categoryBg": "rgba(0,82,255,0.20)",
+        "textColorOrButtonBg": "#0052FF"
+      }
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://i.ibb.co/Sd75fTb/photo-1522202176988-66273c2fd55f-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "title": "Educational Scholarships",
+      "category": "Education",
+      "description": "Empower students by offering scholarships for their education. We believe that every young mind should have access to quality education. Our scholarship program aims to break down barriers and provide opportunities for bright and motivated students who may not have the financial means to pursue their dreams. Your donation will directly fund scholarships that enable students to enroll in schools and universities, access educational resources, and build a brighter future. Join us in supporting the next generation of leaders and innovators.",
+      "donationAmount": 30,
+      "colors": {
+        "cardBg": "rgba(255,68,74,0.15)",
+        "categoryBg": "rgba(255,68,74,0.20)",
+        "textColorOrButtonBg": "#FF444A"
+      }
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://i.ibb.co/hD1Fqvq/volunteer-selecting-organizing-clothes-donations-charity-23-2149230499.jpg",
+      "title": "Provide Clothing to Needy",
+      "category": "Clothing",
+      "description": "Clothe those in need and provide warmth and comfort. Many individuals and families struggle to afford basic clothing items. Your donation will help us provide clothing to those in need, especially during the cold winter months. We believe that everyone deserves the dignity of having warm and comfortable clothing. Join us in making a difference in the lives of those less fortunate.",
+      "donationAmount": 40,
+      "colors": {
+        "cardBg": "rgba(121,194,63,0.15)",
+        "categoryBg": "rgba(121,194,63,0.20)",
+        "textColorOrButtonBg": "#79C23F"
+      }
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://i.ibb.co/t44bqxN/people-with-food-donations-close-up-23-2149196110.jpg",
+      "title": "Support Food Banks",
+      "category": "Food",
+      "description": "Help fight hunger by supporting food banks. Many people go to bed hungry every night, and your donation can change that. Your support will help us provide nutritious meals to families in need. By contributing to our cause, you become a vital part of the fight against hunger. Join us in making sure that no one goes to bed hungry.",
+      "donationAmount": 25,
+      "colors": {
+        "cardBg": "rgba(214, 137, 16,0.15)",
+        "categoryBg": "rgba(214, 137, 16,0.20)",
+        "textColorOrButtonBg": "#D68910"
+      }
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://i.ibb.co/T8xhJJ8/close-up-woman-collecting-garbage-23-2149196174.jpg",
+      "title": "Support Local Food Programs",
+      "category": "Food",
+      "description": "Help support local food programs and food banks. Many communities rely on food programs to access nutritious meals. Your donation will assist us in providing food assistance to those who are struggling to put food on the table. By contributing to our cause, you help us alleviate hunger in your local community. Join us in making a difference today.",
+      "donationAmount": 40,
+      "colors": {
+        "cardBg": "rgba(214, 137, 16,0.15)",
+        "categoryBg": "rgba(214, 137, 16,0.20)",
+        "textColorOrButtonBg": "#D68910"
+      }
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://i.ibb.co/k83Xj0B/close-up-people-with-clothes-23-2149196129.jpg",
+      "title": "Clothing for Homeless",
+      "category": "Clothing",
+      "description": "Provide warm clothing to the homeless and those in need. Many individuals living on the streets lack proper clothing to stay warm during cold weather. Your donation will help us provide warm clothing items such as jackets, blankets, and socks to homeless individuals, ensuring their safety and well-being. Join us in making a positive impact on the lives of those experiencing homelessness.",
+      "donationAmount": 45,
+      "colors": {
+        "cardBg": "rgba(121,194,63,0.15)",
+        "categoryBg": "rgba(121,194,63,0.20)",
+        "textColorOrButtonBg": "#79C23F"
+      }
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://i.ibb.co/23XLzq3/photo-1509062522246-3755977927d7-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "title": "STEM Education Program",
+      "category": "Education",
+      "description": "Support STEM education initiatives for underprivileged youth. Science, technology, engineering, and mathematics (STEM) education is crucial for the future of our world. Unfortunately, many underprivileged youth lack access to quality STEM programs. Your donation will help us provide STEM education opportunities, workshops, and resources to children who need them the most. Join us in shaping the next generation of scientists, engineers, and innovators.",
+      "donationAmount": 35,
+      "colors": {
+        "cardBg": "rgba(255,68,74,0.15)",
+        "categoryBg": "rgba(255,68,74,0.20)",
+        "textColorOrButtonBg": "#FF444A"
+      }
+    },
+    {
+      "id": 8,
+      "thumbnail": "https://i.ibb.co/CmR4wQm/photo-1576765607924-3f7b8410a787-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "title": "Medical Supplies for Clinics",
+      "category": "Health",
+      "description": "Equip clinics with essential medical supplies for underserved communities. Access to basic medical supplies is a fundamental human right. Many clinics in underserved areas lack the necessary resources to provide even the most basic healthcare services. Your donation will help us purchase and distribute medical supplies to these clinics, ensuring that patients receive the care they need. By supporting our cause, you directly contribute to improving the health and well-being of countless individuals in need.",
+      "donationAmount": 50,
+      "colors": {
+        "cardBg": "rgba(0,82,255,0.15)",
+        "categoryBg": "rgba(0,82,255,0.20)",
+        "textColorOrButtonBg": "#0052FF"
+      }
+    },
+    {
+      "id": 9,
+      "thumbnail": "https://i.ibb.co/S7CS1rH/photo-1612277795009-f95f2e8c4a02-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "title": "Emergency Medical Relief",
+      "category": "Health",
+      "description": "Provide emergency medical relief to disaster-stricken areas. When disasters strike, access to medical care is essential. Your donation will help us deliver emergency medical supplies, aid, and personnel to areas affected by natural disasters and emergencies. By supporting our cause, you become a lifeline for those in need during their most vulnerable moments.",
+      "donationAmount": 20,
+      "colors": {
+        "cardBg": "rgba(0,82,255,0.15)",
+        "categoryBg": "rgba(0,82,255,0.20)",
+        "textColorOrButtonBg": "#0052FF"
+      }
+    },
+    {
+      "id": 10,
+      "thumbnail": "https://i.ibb.co/Zm4Hz6S/photo-1491841550275-ad7854e35ca6-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "title": "Access to Quality Education",
+      "category": "Education",
+      "description": "Ensure access to quality education for all. Education is a fundamental right, yet many children around the world lack access to quality schools and learning resources. Your donation will support initiatives that provide underprivileged children with access to quality education, including books, school supplies, and educational programs. Join us in creating a brighter future for children through education.",
+      "donationAmount": 30,
+      "colors": {
+        "cardBg": "rgba(255,68,74,0.15)",
+        "categoryBg": "rgba(255,68,74,0.20)",
+        "textColorOrButtonBg": "#FF444A"
+      }
+    },
+    {
+      "id": 11,
+      "thumbnail": "https://i.ibb.co/JRGXz17/indoor-portrait-faceless-girl-standing-with-cardboard-box-hands-holding-carton-box-full-fashionable.jpg",
+      "title": "Clothing for Needy Families",
+      "category": "Clothing",
+      "description": "Provide clothing for families in need. Many families struggle to afford basic clothing for their children. Your donation will help us provide clothing items such as school uniforms, winter coats, and shoes to families in need. By supporting our cause, you ensure that children have the clothing they need to stay warm and attend school with dignity.",
+      "donationAmount": 25,
+      "colors": {
+        "cardBg": "rgba(121,194,63,0.15)",
+        "categoryBg": "rgba(121,194,63,0.20)",
+        "textColorOrButtonBg": "#79C23F"
+      }
+    },
+    {
+      "id": 12,
+      "thumbnail": "https://i.ibb.co/R6F5JBH/volunteers-collecting-food-donations-medium-shot-23-2149182021.jpg",
+      "title": "Fight Child Hunger",
+      "category": "Food",
+      "description": "Help fight child hunger and malnutrition. Millions of children worldwide suffer from hunger and malnutrition, which can have devastating long-term effects on their health and development. Your donation will support programs that provide nutritious meals and essential nutrition to children in need. Join us in ensuring that every child has access to the nourishment they need to thrive.",
+      "donationAmount": 50,
+      "colors": {
+        "cardBg": "rgba(214, 137, 16,0.15)",
+        "categoryBg": "rgba(214, 137, 16,0.20)",
+        "textColorOrButtonBg": "#D68910"
+      }
+    }
+  ]
+  

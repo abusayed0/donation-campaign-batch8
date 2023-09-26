@@ -1,7 +1,7 @@
 
 const HomePageBanner = () => {
     return (
-        <div className="mt-20  p-10 md:h-[500px] text-center flex flex-col justify-center bg-[url('https://i.ibb.co/WDF8yS4/larm-rmah-AEa-TUnvneik-unsplash.jpg/')] bg-cover bg-center bg-no-repeat bg-[rgba(255,255,255,0.90)] bg-blend-overlay">
+        <div className="mt-24  p-10 md:h-[500px] text-center flex flex-col justify-center bg-[url('https://i.ibb.co/WDF8yS4/larm-rmah-AEa-TUnvneik-unsplash.jpg/')] bg-cover bg-center bg-no-repeat bg-[rgba(255,255,255,0.90)] bg-blend-overlay">
             <h2 className="text-3xl md:text-5xl font-bold">I Grow By Helping People In Need</h2>
             <form className="mt-8">
                 <div className="relative md:w-1/2 mx-auto">
