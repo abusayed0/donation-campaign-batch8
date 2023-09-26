@@ -3,7 +3,7 @@ const PreDonatedCard = ({ donationData }) => {
     console.log(donationData);
     const { id, thumbnail, category, title, donationAmount, colors } = donationData;
     const { cardBg, categoryBg, textColorAndButtonBg } = colors;
-
+    console.log(colors);
     return (
         <div className="flex flex-col md:flex-row rounded-lg" style={{ backgroundColor: cardBg }}>
             <div>
