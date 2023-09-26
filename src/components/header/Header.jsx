@@ -3,7 +3,7 @@ import logo from '../../assets/Logo.png'
 import './Header.css'
 const Header = () => {
     return (
-        <nav className="border flex  items-center gap-5 flex-col md:flex-row md:justify-between">
+        <nav className="mt-12 border flex  items-center gap-5 flex-col md:flex-row md:justify-between">
             <div>
                 <img className="h-[50px] w-[150px] md:h-[70px] md:w-[250px] object-contain" src={logo} alt="" />
             </div>
