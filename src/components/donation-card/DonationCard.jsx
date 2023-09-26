@@ -1,9 +1,11 @@
+import { useNavigate } from "react-router-dom";
 
 const DonationCard = ({donation}) => {
-    const {thumbnail, category, title, colors} = donation;
+    const {id, thumbnail, category, title, colors} = donation;
     const {cardBg, categoryBg, textColorOrButtonBg} = colors;
+    const navigate = useNavigate();
     return (
-        <div className={"rounded-lg"} style={{backgroundColor : cardBg}}>
+        <div onClick={() => navigate(`/${id}/details`)} className="rounded-lg cursor-pointer" style={{backgroundColor : cardBg}}>
             <img className="h-[200px] w-full" src={thumbnail} alt="" />
             <div className="p-4">
                 <span className="font-medium px-2 py-1 rounded" style={{backgroundColor : categoryBg}}>{category}</span>
