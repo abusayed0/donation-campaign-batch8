@@ -1,6 +1,6 @@
 import toast from "react-hot-toast";
 
-const getPreDonationIdS = () => {
+export const getPreDonationIdS = () => {
     let donaitonIds = [];
     const preDonationIds = localStorage.getItem("donation-ids");
     if(preDonationIds){
@@ -11,7 +11,7 @@ const getPreDonationIdS = () => {
 };
 const addDonationIdInLS = id => {
     const preDonationIds = getPreDonationIdS();
-        const newDonationIds = [...preDonationIds, id];
+        const newDonationIds = [id, ...preDonationIds];
         localStorage.setItem("donation-ids", JSON.stringify(newDonationIds));
         toast.success('Successfully added!')
     

@@ -9,7 +9,7 @@
       "colors": {
         "cardBg": "rgba(0,82,255,0.15)",
         "categoryBg": "rgba(0,82,255,0.20)",
-        "textColorOrButtonBg": "#0052FF"
+        "textColorAndButtonBg": "#0052FF"
       }
     },
     {
@@ -22,7 +22,7 @@
       "colors": {
         "cardBg": "rgba(255,68,74,0.15)",
         "categoryBg": "rgba(255,68,74,0.20)",
-        "textColorOrButtonBg": "#FF444A"
+        "textColorAndButtonBg": "#FF444A"
       }
     },
     {
@@ -35,7 +35,7 @@
       "colors": {
         "cardBg": "rgba(121,194,63,0.15)",
         "categoryBg": "rgba(121,194,63,0.20)",
-        "textColorOrButtonBg": "#79C23F"
+        "textColorAndButtonBg": "#79C23F"
       }
     },
     {
@@ -48,7 +48,7 @@
       "colors": {
         "cardBg": "rgba(214, 137, 16,0.15)",
         "categoryBg": "rgba(214, 137, 16,0.20)",
-        "textColorOrButtonBg": "#D68910"
+        "textColorAndButtonBg": "#D68910"
       }
     },
     {
@@ -61,7 +61,7 @@
       "colors": {
         "cardBg": "rgba(214, 137, 16,0.15)",
         "categoryBg": "rgba(214, 137, 16,0.20)",
-        "textColorOrButtonBg": "#D68910"
+        "textColorAndButtonBg": "#D68910"
       }
     },
     {
@@ -74,7 +74,7 @@
       "colors": {
         "cardBg": "rgba(121,194,63,0.15)",
         "categoryBg": "rgba(121,194,63,0.20)",
-        "textColorOrButtonBg": "#79C23F"
+        "textColorAndButtonBg": "#79C23F"
       }
     },
     {
@@ -87,7 +87,7 @@
       "colors": {
         "cardBg": "rgba(255,68,74,0.15)",
         "categoryBg": "rgba(255,68,74,0.20)",
-        "textColorOrButtonBg": "#FF444A"
+        "textColorAndButtonBg": "#FF444A"
       }
     },
     {
@@ -100,7 +100,7 @@
       "colors": {
         "cardBg": "rgba(0,82,255,0.15)",
         "categoryBg": "rgba(0,82,255,0.20)",
-        "textColorOrButtonBg": "#0052FF"
+        "textColorAndButtonBg": "#0052FF"
       }
     },
     {
@@ -113,7 +113,7 @@
       "colors": {
         "cardBg": "rgba(0,82,255,0.15)",
         "categoryBg": "rgba(0,82,255,0.20)",
-        "textColorOrButtonBg": "#0052FF"
+        "textColorAndButtonBg": "#0052FF"
       }
     },
     {
@@ -126,7 +126,7 @@
       "colors": {
         "cardBg": "rgba(255,68,74,0.15)",
         "categoryBg": "rgba(255,68,74,0.20)",
-        "textColorOrButtonBg": "#FF444A"
+        "textColorAndButtonBg": "#FF444A"
       }
     },
     {
@@ -139,7 +139,7 @@
       "colors": {
         "cardBg": "rgba(121,194,63,0.15)",
         "categoryBg": "rgba(121,194,63,0.20)",
-        "textColorOrButtonBg": "#79C23F"
+        "textColorAndButtonBg": "#79C23F"
       }
     },
     {
@@ -152,7 +152,7 @@
       "colors": {
         "cardBg": "rgba(214, 137, 16,0.15)",
         "categoryBg": "rgba(214, 137, 16,0.20)",
-        "textColorOrButtonBg": "#D68910"
+        "textColorAndButtonBg": "#D68910"
       }
     }
   ]
