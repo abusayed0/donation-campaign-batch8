@@ -1,9 +1,11 @@
 import PropTypes from 'prop-types'
+import { useNavigate } from 'react-router-dom';
 const PreDonatedCard = ({ donationData }) => {
-    console.log(donationData);
+    // console.log(donationData);
     const { id, thumbnail, category, title, donationAmount, colors } = donationData;
     const { cardBg, categoryBg, textColorAndButtonBg } = colors;
-    console.log(colors);
+    // console.log(colors);
+    const navigate = useNavigate();
     return (
         <div className="flex flex-col md:flex-row rounded-lg" style={{ backgroundColor: cardBg }}>
             <div>
@@ -13,7 +15,7 @@ const PreDonatedCard = ({ donationData }) => {
                 <span className="px-2 py-1 rounded" style={{ backgroundColor: categoryBg, color: textColorAndButtonBg }}>{category}</span>
                 <h2 className="my-2 font-bold text-2xl">{title}</h2>
                 <p className="font-semibold" style={{ color: textColorAndButtonBg }}>${donationAmount}.00</p>
-                <button className="mt-4 px-4 py-2 rounded font-semibold text-lg text-white" style={{ backgroundColor: textColorAndButtonBg }}>View Details</button>
+                <button onClick={() => navigate(`/${id}/details`)} className="mt-4 px-4 py-2 rounded font-semibold text-lg text-white" style={{ backgroundColor: textColorAndButtonBg }}>View Details</button>
             </div>
         </div>
     );
