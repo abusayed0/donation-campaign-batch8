@@ -4,7 +4,7 @@ import DonationCard from "../../components/donation-card/DonationCard";
 
 const Home = () => {
     const donatainDatas = useLoaderData();
-    console.log(donatainDatas);
+    // console.log(donatainDatas);
     return (
         <div>
             <HomePageBanner />

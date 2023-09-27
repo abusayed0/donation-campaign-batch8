@@ -13,7 +13,7 @@ const addDonationIdInLS = id => {
     const preDonationIds = getPreDonationIdS();
         const newDonationIds = [id, ...preDonationIds];
         localStorage.setItem("donation-ids", JSON.stringify(newDonationIds));
-        toast.success('Successfully added!')
+        toast.success("Donation successful.")
     
 };
 
