@@ -1,4 +1,4 @@
-
+import PropTypes from 'prop-types'
 const HomePageBanner = ({handleDisplayDatas}) => {
     return (
         <div className="mt-20  py-10 px-2 md:px-6 md:h-[500px] text-center flex flex-col justify-center bg-[url('https://i.ibb.co/WDF8yS4/larm-rmah-AEa-TUnvneik-unsplash.jpg/')] bg-cover bg-center bg-no-repeat bg-[rgba(255,255,255,0.90)] bg-blend-overlay">
@@ -12,5 +12,7 @@ const HomePageBanner = ({handleDisplayDatas}) => {
         </div>
     );
 };
-
+HomePageBanner.propTypes = {
+    handleDisplayDatas : PropTypes.func.isRequired
+};
 export default HomePageBanner;

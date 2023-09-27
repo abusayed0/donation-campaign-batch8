@@ -4,11 +4,13 @@ import Home from "../../pages/home/Home";
 import Donation from "../../pages/donation/Donation";
 import Statistics from "../../pages/statistics/Statistics";
 import DonationDetails from "../../pages/donation-details/DonationDetails";
+import ErrorPage from "../../pages/error-page/ErrorPage";
 
 const router = createBrowserRouter([
     {
         path : "/",
         element : <RootElement/>,
+        errorElement : <ErrorPage/>,
         children : [
             {
               path : "/",
