@@ -1,6 +1,6 @@
 # [Live Webiste](https://donation-compaign.netlify.app/)
 
-## Feature
+## Features
 * You can search donation by category.
 * You can show any donation details.
 * You can donate.
